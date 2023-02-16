@@ -8,9 +8,9 @@ sudo mkdir /publico /adm /ven /sec
 #########################
 echo 'Definindo permissões de diretórios...'
 sudo chmod 777 /publico/
-sudo chmod 700 /adm/
-sudo chmod 700 /ven/
-sudo chmod 700 /sec/
+sudo chmod 770 /adm/
+sudo chmod 770 /ven/
+sudo chmod 770 /sec/
 
 #########################
 echo 'Criando grupos...'
