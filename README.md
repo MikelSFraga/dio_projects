@@ -1,4 +1,4 @@
-# DIOT Training Project Repository
+# DIO Training Project Repository
 
 Neste repositório, irão constar todos os projetos desenvolvidos nos programas de formação da DIO (__Digital Innovation One__).
 
