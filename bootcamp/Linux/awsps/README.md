@@ -11,11 +11,9 @@ Como pode ser visto, existem dois diretórios:
 <hr>
 
 ## Scripts __DONE__
-Enunciado
-- Exemplo
+Aqui se encontra a tentativa de desenvolvimento do desafio, por conta próprio, sem visualizar a resolução disponibilizada pelo instrutor do curso.
 
 <hr>
 
 ## Scripts __ADJUSTED__
-Enunciado
-- Exemplo
+Foi realizada a correção no script, substituindo o comando __apt__ pelo __apt-get__, por ser um comando mais eficaz durante a execução de __Arquivos Shel de Provisionamento__.
